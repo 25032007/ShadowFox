@@ -93,7 +93,7 @@ ShadowFox/
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ShadowFox.git
+git clone https://github.com/25032007/ShadowFox.git
 cd ShadowFox
 ```
 
