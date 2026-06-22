@@ -62,8 +62,8 @@ An ensemble of 100 decision trees that vote together. Much more accurate than a 
 
 | Model | R² Score | MSE | Verdict |
 |-------|----------|-----|---------|
-| Linear Regression | 0.66 | 0.56 | Decent baseline |
-| **Random Forest** | **0.89** | **0.26** | ✅ Best model |
+| Linear Regression | 0.66 | 25.00 | Decent baseline |
+| **Random Forest** | **0.89** | **8.38** | ✅ Best model |
 
 > **R² Score** = How well the model explains price variation. 1.0 = perfect, 0.0 = random guessing.  
 > **MSE** = Average prediction error (lower is better).
